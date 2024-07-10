@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d814fd78-1255-4a12-b073-756b920e20f3" name="Changes" comment="save in 0129 (hai ke yi)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rampage/property/CoreAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rampage/property/CoreAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rampage/property/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rampage/property/Utils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2a7pVOvpD0zL78hyzMBEwfJ76Ow" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/RaMpAgE/IdeaProjects/EmpiricalMethod&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rampage.property.Main" />
+      <module name="CustomSystemProperties" />
+      <option name="PROGRAM_PARAMETERS" value="-i D:\\workDir\\custom_system_properties\\testcases\\testDir -p D:\\Android\\android-platforms -o D:\\workDir\\custom_system_properties\\outputDir -r D:\\workDir\\custom_system_properties\\testResultDir -t 30 -n 0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rampage.property.result.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResultCallGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rampage.property.result.ResultCallGraph" />
+      <module name="CustomSystemProperties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rampage.property.result.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rampage.property.Utils" />
+      <module name="CustomSystemProperties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rampage.property.result.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Utils" />
+        <item itemvalue="Application.ResultCallGraph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d814fd78-1255-4a12-b073-756b920e20f3" name="Changes" comment="" />
+      <created>1703679557235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703679557235</updated>
+      <workItem from="1703679558420" duration="1776000" />
+      <workItem from="1703745763082" duration="11809000" />
+      <workItem from="1703773468259" duration="2623000" />
+      <workItem from="1703810293242" duration="5788000" />
+      <workItem from="1703837252809" duration="7737000" />
+      <workItem from="1703898765107" duration="8197000" />
+      <workItem from="1703992246978" duration="9000" />
+      <workItem from="1704079811254" duration="464000" />
+      <workItem from="1704092608247" duration="13000" />
+      <workItem from="1704766559829" duration="18377000" />
+      <workItem from="1704850525173" duration="21624000" />
+      <workItem from="1704936687910" duration="19580000" />
+      <workItem from="1704983055076" duration="1414000" />
+      <workItem from="1705023850154" duration="11642000" />
+      <workItem from="1705109818285" duration="2011000" />
+      <workItem from="1705114567947" duration="71000" />
+      <workItem from="1705128454258" duration="865000" />
+      <workItem from="1705304564898" duration="14060000" />
+      <workItem from="1705368887359" duration="19369000" />
+      <workItem from="1705413271376" duration="230000" />
+      <workItem from="1705413509848" duration="4862000" />
+      <workItem from="1705419021328" duration="1000" />
+      <workItem from="1705456133894" duration="5088000" />
+      <workItem from="1705472221831" duration="12916000" />
+      <workItem from="1705491033831" duration="7771000" />
+      <workItem from="1705584927431" duration="1793000" />
+      <workItem from="1705631826878" duration="2223000" />
+      <workItem from="1705905088474" duration="18828000" />
+      <workItem from="1705973299304" duration="24754000" />
+      <workItem from="1706063726625" duration="5844000" />
+      <workItem from="1706089041800" duration="2858000" />
+      <workItem from="1706165853195" duration="15489000" />
+      <workItem from="1706237072136" duration="14226000" />
+      <workItem from="1706284533759" duration="132000" />
+      <workItem from="1706328047022" duration="123000" />
+      <workItem from="1706509861470" duration="9079000" />
+      <workItem from="1706580928055" duration="1976000" />
+      <workItem from="1706844293194" duration="609000" />
+      <workItem from="1707450130990" duration="3141000" />
+      <workItem from="1708497965571" duration="3738000" />
+      <workItem from="1708567098145" duration="7432000" />
+      <workItem from="1708936130554" duration="757000" />
+      <workItem from="1708999628046" duration="25000" />
+      <workItem from="1709101631680" duration="1156000" />
+      <workItem from="1709258069328" duration="741000" />
+      <workItem from="1713787878937" duration="7971000" />
+      <workItem from="1713856156950" duration="5528000" />
+      <workItem from="1715413313580" duration="612000" />
+      <workItem from="1716454118456" duration="1000" />
+      <workItem from="1716518473679" duration="642000" />
+      <workItem from="1716799074103" duration="1487000" />
+      <workItem from="1716884043070" duration="3004000" />
+      <workItem from="1716964425756" duration="4589000" />
+      <workItem from="1717034363484" duration="2214000" />
+      <workItem from="1717146373754" duration="436000" />
+      <workItem from="1719138775486" duration="194000" />
+      <workItem from="1719210478546" duration="22000" />
+      <workItem from="1719817616523" duration="9000" />
+      <workItem from="1720426713796" duration="641000" />
+      <workItem from="1720448401641" duration="13000" />
+      <workItem from="1720492365053" duration="603000" />
+      <workItem from="1720576357199" duration="2009000" />
+    </task>
+    <task id="LOCAL-00001" summary="1230 break">
+      <created>1703912076973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703912076973</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finished inter procedure">
+      <created>1705308569059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705308569059</updated>
+    </task>
+    <task id="LOCAL-00003" summary="save in 0122">
+      <created>1705906834249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705906834249</updated>
+    </task>
+    <task id="LOCAL-00004" summary="save in 0129 (hai ke yi)">
+      <created>1706519912067</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706519912067</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1230 break" />
+    <MESSAGE value="finished inter procedure" />
+    <MESSAGE value="save in 0122" />
+    <MESSAGE value="save in 0129 (hai ke yi)" />
+    <option name="LAST_COMMIT_MESSAGE" value="save in 0129 (hai ke yi)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="107" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rampage/property/CoreAnalysis.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="value" />
+        <PinnedItemInfo parentTag="soot.jimple.JimpleBody" memberName="unitChain" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
